@@ -2,4 +2,7 @@
 
 Youth: ` maria@youth.com ` /   `juan@youth.com `
 Admin: `admin@sk.gov`
-(Pass: any text)
+<br> Pass: any text </br>
+
+Preferrable three tables:
+`users, event, & opportunities`
